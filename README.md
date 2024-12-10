@@ -1,4 +1,4 @@
-## Hey 👋, This is Yousif
+## Hey 👋🏻, This is Yousif
 [![Gmail Badge](https://img.shields.io/badge/-YousifZito@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:YousifZito@gmail.com)](mailto:YousifZito@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-YousifZito-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YousifZito/)](https://www.linkedin.com/in/YousifZito/) [![Github Badge](https://img.shields.io/badge/-YRZito-grey?style=flat&logo=github&logoColor=white&link=https://github.com/YRZito/)](https://www.github.com/YRZito/) [![Twitter Badge](https://img.shields.io/badge/-YousifZito-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/YousifZito/)](https://www.twitter.com/YousifZito/) ![](https://komarev.com/ghpvc/?username=YRZito&style=flat-square)<p align='left'>I'm a passionate software engineering student based in Canada, actively seeking full-time or co-op opportunities to apply and enhance my skills.</p>
 
